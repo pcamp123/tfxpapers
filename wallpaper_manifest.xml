@@ -8,7 +8,20 @@
             author="PatrickC"
             date="November 16, 2012"
             name="Homemade" / >
+        <wallpaper 
+            url="https://www.box.com/shared/static/ptfskx7obtup8fvnvrdc.jpg"
+            thumbUrl="https://www.box.com/shared/static/gtpy8ec18wct6h8ggdmk.jpg"
+            author="exmaple"
+            date="May 19, 2012"
+            name="Some Wallpaper" />
 
+<wallpaper
+            author="ThaPHLASH"
+            url="http://aokp.co/wallpapers/thaplash_logo_head_office.jpg" />
+
+        <wallpaper
+            author="ThaPHLASH"
+            url="http://aokp.co/wallpapers/thaplash_logo_head_office2.jpg" />
        
     </category>
 
